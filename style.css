@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.specific_style{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 360%;
+    
+}
+.border{
+    border-left: 5px solid;
+    border-color: rgb(247, 91, 91);
+    border-image-slice: 1;
+}
+.text_colour{
+    color: orange;
+}
+.flex{
+    display: flex;
+}
+.flex img{
+    padding-left: 300px;
+}
+.flexible_container{
+    width: 50%;
+    
+}
+.padding{
+    padding-left: 120px;
+    padding-top: 100px;
+    width: 30%;
+}
+.text_size{
+    font-size: larger;
+}
+.flexible_container img{
+    width: 50%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(247, 91, 91);
+    padding: 10px;
+    color: azure;
+    border-radius: 6px;
+    font-weight: 400;
+}
