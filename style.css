@@ -47,3 +47,51 @@ body{
     border-radius: 6px;
     font-weight: 400;
 }
+.center_container{
+    text-align: center;
+    font-size: xx-large;
+}
+.three{
+display: flex;
+
+}
+
+.three1{
+    width: 20%;
+    box-shadow: 5px 5px 5px rgb(245, 244, 244);
+    padding-left: 60px;
+    padding-right: 80px;
+    background-color: rgb(217, 243, 243);
+    margin-left: 170px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.three1 img{
+    width: 50%;
+}
+.three2{
+    width: 20%;
+    box-shadow: 5px 5px 5px rgb(245, 244, 244);
+    padding-left: 60px;
+    padding-right: 80px;
+    background-color: rgb(247, 222, 192);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.three2 img{
+    width: 50%;
+}
+.three3{
+    width: 20%;
+    box-shadow: 5px 5px 5px rgb(245, 244, 244);
+    padding-left: 60px;
+    padding-right: 80px;
+    background-color: rgb(244, 242, 197);
+    margin-left: 10px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+.three3 img{
+    width: 50%;
+}
