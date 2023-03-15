@@ -21,9 +21,7 @@ body{
 .flex{
     display: flex;
 }
-.flex img{
-    padding-left: 300px;
-}
+
 .flexible_container{
     width: 50%;
     
@@ -38,7 +36,9 @@ body{
 }
 .flexible_container img{
     width: 50%;
+    padding-left: 300px;
 }
+
 .button{
     text-decoration: none;
     background-color: rgb(247, 91, 91);
@@ -94,4 +94,93 @@ display: flex;
 }
 .three3 img{
     width: 50%;
+}
+.flex2{
+    display: flex;
+    padding-left: 300px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 200px 150px;
+    background-size: 230px;
+}
+.flexible_container2{
+    width: 50%;
+}
+.flexible_container2 img{
+    width: 90%;
+}
+.padding2{
+    
+    padding-top: 100px;
+    width: 30%;
+   
+}
+.develop{
+    font-size: 35px;
+}
+.font_larger{
+    font-size: larger;
+}
+.flex3{
+    display: flex;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 1170px 380px;
+    background-size: 200px;
+}
+.flexible_container3{
+    width: 50%;
+}
+.flexible_container3 img{
+    width: 60%;
+    padding-left: 150px;
+}
+.padding3{
+    
+    padding-top: 100px;
+    width: 45%;
+   
+}
+.flex4{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    background-image: url(images/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-position: 160px 50px;
+    background-size: 140px;
+}
+.flexible_container4{
+    width: 50%;
+}
+.flexible_container4 img{
+    width: 60%;
+    padding-left: 150px;
+    height: 300px;
+}
+.padding4{
+    
+    padding-top: 100px;
+    width: 45%;
+   
+}
+.footer{
+    background-color: black;
+    color: antiquewhite;
+    height: 150px;
+}
+.center_footer{
+    text-align: center;
+}
+#italic{
+    font-family: italic;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#smaller{
+    font-size: smaller;
+    
 }
